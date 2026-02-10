@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1769359415 source:d:\oop's with c++\10.2 class to handle multiple files and file operation\main.cpp
+	<iostream>
+	<fstream>
+

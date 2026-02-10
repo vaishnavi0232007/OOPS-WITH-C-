@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1769358146 source:d:\oop's with c++\9.2 implement exception handling for strings\main.cpp
+	<iostream>
+	<string>
+
